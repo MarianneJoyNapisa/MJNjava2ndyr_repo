@@ -1,0 +1,138 @@
+34 INGREDIENT:
+
+Water, Potassium Cocoyl Glycinate, Disodium Cocoamphodiacetate, Cocamidopropyl Betaine, Acrylates/Beheneth-25 Methacrylate Copolymer, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Chloride, Pentylene Glycol, 1,2-Hexanediol, Sodium Methyl Cocoyl Taurate, Caprylyl/Capryl Glucoside, PEG-7 Glyceryl Cocoate, Fragrance/Parfum, Isostearic Acid, Potassium Hydroxide, Butylene Glycol, Limonene, Disodium EDTA, Ethylhexylglycerin, Sodium Benzoate, Tetrasodium EDTA, Coix Lacryma-Jobi Ma-Yuen Seed Extract, Citrus Unshiu Peel Extract, Castanea Crenata (Chestnut) Shell Extract, Linalool, Spirodela Polyrhiza Extract, Dioscorea Japonica Root Extract, Dextrin, Theobroma Cacao (Cocoa) Extract, Rubus Idaeus (Raspberry) Fruit Extract, Ulmus Davidiana Root Extract, Salicornia Herbacea Extract, Morus Alba Leaf Extract, Angelica Keiskei Extract, Citric Acid, Tocopherol
+
+1. Water
+     > The main component, forming the base of the product.
+
+2. Potassium Cocoyl Glycinate
+     > A gentle cleanser derived from coconut oil, providing effective cleansing.
+
+3. Disodium Cocoamphodiacetate
+     > A mild surfactant that helps to cleanse the skin.
+
+4. Cocamidopropyl Betaine
+     > A surfactant that enhances foaming and cleansing properties.
+
+5. Acrylates/Beheneth-25 Methacrylate Copolymer
+     > Helps stabilize and thicken the product, providing a desirable texture.
+
+6. PEG-200 Hydrogenated Glyceryl Palmate
+     > Functions as an emollient, adding smoothness to the product.
+
+7. Sodium Chloride
+     > Common table salt, used to adjust the thickness of the product.
+
+8. Pentylene Glycol
+     > A humectant that helps to retain moisture in the skin.
+
+9. 1,2-Hexanediol
+     > A solvent that aids in dissolving other ingredients.
+
+10. Sodium Methyl Cocoyl Taurate
+     > A gentle surfactant that contributes to the product's cleansing properties.
+
+11. Caprylyl/Capryl Glucoside
+     > A mild surfactant that enhances foaming and cleansing.
+
+12. PEG-7 Glyceryl Cocoate
+     > Acts as an emollient, providing a smooth and soft feel to the skin.
+
+13. Fragrance/Parfum
+     > Adds a pleasant scent to the product.
+
+14. Isostearic Acid
+     > Functions as a surfactant and emulsifier.
+
+15. Potassium Hydroxide
+     > Adjusts the product's pH level.
+
+16. Butylene Glycol
+     > A humectant that attracts and retains moisture.
+
+17. Limonene
+     > A natural component of some essential oils, providing a fragrance.
+
+18. Disodium EDTA, Tetrasodium EDTA
+     > Chelating agents that help maintain product stability.
+
+19. Ethylhexylglycerin
+     > Acts as a skin-conditioning agent and a preservative.
+
+20. Sodium Benzoate
+     > A preservative that prevents the growth of microorganisms.
+
+21. Coix Lacryma-Jobi Ma-Yuen Seed Extract
+     > Job's Tears extract, known for its moisturizing properties.
+
+22. Citrus Unshiu Peel Extract
+     > Extract from the peel of Satsuma mandarin, providing a fresh scent.
+
+23. Castanea Crenata (Chestnut) Shell Extract
+     > Extract from chestnut shells, possibly used for its antioxidant properties.
+
+24. Spirodela Polyrhiza Extract
+     > Extract from duckweed, which may have moisturizing properties.
+
+25. Dioscorea Japonica Root Extract
+     > Extract from Japanese yam, known for its skin-conditioning properties.
+
+26. Dextrin
+     > A carbohydrate that may contribute to the product's texture.
+
+27. Theobroma Cacao (Cocoa) Extract
+     > Extract from cocoa, possibly providing a pleasant scent.
+
+28. Rubus Idaeus (Raspberry) Fruit Extract
+     > Extract from raspberries, which may have antioxidant properties.
+
+29. Ulmus Davidiana Root Extract
+     > Extract from the root of the David Elm tree, possibly used for its soothing properties.
+
+30. Salicornia Herbacea Extract
+     > Extract from glasswort, which may provide hydration to the skin.
+
+31. Morus Alba Leaf Extract
+     > Extract from white mulberry leaves, known for its skin-brightening properties.
+
+32. Angelica Keiskei Extract
+     > Extract from the Ashitaba plant, possibly used for its antioxidant properties.
+33. Citric Acid
+     > Adjusts the product's pH level.
+
+34. Tocopherol
+     > Vitamin E, an antioxidant that provides protection against environmental damage.
+
+BENEFICIAL:
+
+1. Coix Lacryma-Jobi Ma-Yuen Seed Extract
+     > Known for its moisturizing properties.
+
+2. Citrus Unshiu Peel Extract
+     > Provides a fresh and citrusy scent.
+
+3. Castanea Crenata (Chestnut) Shell Extract
+     > May have antioxidant properties.
+
+4. Spirodela Polyrhiza Extract
+     > May contribute to skin moisturization.
+
+5. Dioscorea Japonica Root Extract
+     > Known for its skin-conditioning properties.
+
+6. Salicornia Herbacea Extract
+     > Provides hydration to the skin.
+
+7. Morus Alba Leaf Extract
+     > Known for its skin-brightening properties.
+
+8. Angelica Keiskei Extract
+     > May have antioxidant properties.
+
+DEBATBALE:
+
+1. Fragrance/Parfum
+     > Fragrances can cause skin irritation in some individuals, especially those with sensitive skin. Fragrance-free options may be preferable for some.
+
+2. Limonene
+     > While a natural component of some essential oils, it can cause skin sensitization in some individuals.
